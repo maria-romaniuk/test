@@ -10,7 +10,7 @@ body{
     overflow: hidden;
     background: #4682B4;
     box-shadow: 0 -400px 300px -300px #FF4500 inset;
-    animation: sky 15s infinite linear;
+    animation: sky 17s infinite linear;
 
 }
 .sun {
@@ -24,7 +24,7 @@ body{
     height: 10em;
     margin-left: -2.5em;
     margin-top: 0;
-    animation: 15s infinite linear;
+    animation: 17s infinite linear;
     animation-name: move, sun-color;
 
 }
@@ -50,7 +50,7 @@ body{
 .melnicaround{
     position: absolute;
     left: 50%;
-    animation: preloader 5s infinite linear;
+    animation: preloader 10s infinite linear;
 
 }
 
